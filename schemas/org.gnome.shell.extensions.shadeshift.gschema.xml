@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.shell.extensions.shadeshift" path="/org/gnome/shell/extensions/shadeshift/">
+    <key name="light-wallpaper" type="s">
+      <default>''</default>
+      <summary>Light mode wallpaper path</summary>
+      <description>File path to the wallpaper used in light mode</description>
+    </key>
+    <key name="dark-wallpaper" type="s">
+      <default>''</default>
+      <summary>Dark mode wallpaper path</summary>
+      <description>File path to the wallpaper used in dark mode</description>
+    </key>
+  </schema>
+</schemalist>
