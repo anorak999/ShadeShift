@@ -17,7 +17,7 @@ Install from [extensions.gnome.org](https://extensions.gnome.org/).
 ### Manual Installation
 
 ```bash
-git clone https://github.com/anorak999/ShadeShift.git
+git clone https://github.com/Himath-Rajapaksha/ShadeShift.git
 cd ShadeShift
 glib-compile-schemas schemas/
 ln -s "$(pwd)" ~/.local/share/gnome-shell/extensions/shadeshift@anorak
@@ -38,7 +38,7 @@ Log out and back in, or restart GNOME Shell (Alt+F2, type `r`).
 
 ## Author
 
-Himath Rajapaksha — [GitHub](https://github.com/anorak999) — himath.hr@gmail.com
+Himath Rajapaksha — [GitHub](https://github.com/Himath-Rajapaksha) — himath.hr@gmail.com
 
 ## License
 
@@ -46,4 +46,4 @@ GPL-3.0-or-later — see [LICENSE](LICENSE) for details.
 
 ## Issues
 
-Report bugs at [GitHub Issues](https://github.com/anorak999/ShadeShift/issues).
+Report bugs at [GitHub Issues](https://github.com/Himath-Rajapaksha/ShadeShift/issues).
